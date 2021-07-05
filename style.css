@@ -1,11 +1,11 @@
 body {
   font-family: "Montserrat", sans-serif;
+  margin: 0;
 }
-#home {
-  padding-bottom: 150px;
-}
+
 .flex-item {
   display: flex;
+  margin-bottom: 100px;
 }
 .navbar {
   width: 100%;
@@ -55,4 +55,28 @@ p {
   background-image: linear-gradient(to right, #fba24f, #ff1e1e);
   display: inline-block;
   margin-top: 30px;
+}
+#about {
+  background-image: url(images/7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.about-info {
+  width: 50%;
+  padding-left: 120px;
+}
+.about-info img {
+  width: 57%;
+  height: 85%;
+  margin-top: 85px;
+  margin-left: 55px;
+}
+.about-info h2 {
+  margin-top: 150px;
+  color: #575757;
+  font-size: 36px;
+}
+.about-info p {
+  padding-right: 150px;
 }
