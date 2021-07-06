@@ -40,7 +40,7 @@ ul li a:hover {
   width: 95%;
 }
 h1 {
-  font-size: 60px;
+  font-size: 54px;
   color: #575757;
 }
 span {
@@ -84,7 +84,7 @@ p {
 }
 /* Services start  */
 #services {
-  padding-bottom: 50px;
+  padding-bottom: 80px;
 }
 .blank {
   width: 100%;
@@ -92,6 +92,7 @@ p {
 }
 .services-info {
   text-align: center;
+  padding-bottom: 40px;
 }
 .info-item {
   width: 50%;
@@ -131,7 +132,7 @@ p {
 .part1 {
   background-image: linear-gradient(to right, #7b279c, #5c279c);
   width: 32%;
-  padding: 40px 40px 80px;
+  padding: 20px 40px 60px;
   color: white;
   box-shadow: 1px 1px 10px 1px #333;
 }
@@ -140,7 +141,7 @@ p {
 }
 .part2 {
   width: 32%;
-  padding: 40px 40px 80px;
+  padding: 20px 40px 60px;
   box-shadow: 1px 1px 10px 1px #333;
 }
 .part2 p {
